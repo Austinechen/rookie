@@ -4,6 +4,18 @@ This repository holds my programming projects done during the period of stanCode
 
 ## Project Source Code
 
+Watch my [StepUp](https://github.com/Austinechen/rookie/blob/main/BeeperRow.py)
+- put beepers on the row
+
+Watch my [BeeperRow](https://github.com/Austinechen/rookie/blob/main/BeeperRow.py)
+- put beepers on the row
+
+- Watch my [BeeperRow](https://github.com/Austinechen/rookie/blob/main/BeeperRow.py)
+- put beepers on the row
+
+Watch my [BeeperRow](https://github.com/Austinechen/rookie/blob/main/BeeperRow.py)
+- put beepers on the row
+
 Watch my [BeeperRow](https://github.com/Austinechen/rookie/blob/main/BeeperRow.py)
 - put beepers on the row
 
