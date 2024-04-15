@@ -10,7 +10,7 @@ Watch my [StepUp](https://github.com/Austinechen/rookie/blob/main/StepUp.py)
 Watch my [PotholeFilling](https://github.com/Austinechen/rookie/blob/main/PotholeFilling.py)
 - put beepers on the row
 
-- Watch my [MoveToTheEnd](https://github.com/Austinechen/rookie/blob/main/MoveToTheEnd.py)
+Watch my [MoveToTheEnd](https://github.com/Austinechen/rookie/blob/main/MoveToTheEnd.py)
 - put beepers on the row
 
 Watch my [BeeperRow](https://github.com/Austinechen/rookie/blob/main/BeeperRow.py)
