@@ -16,8 +16,8 @@ Watch my [PotholeFilling](https://github.com/Austinechen/rookie/blob/main/Pothol
 Watch my [BeeperRow](https://github.com/Austinechen/rookie/blob/main/BeeperRow.py)
 - put beepers on the row
 
-Watch my [BeeperRowAdv](https://github.com/Austinechen/rookie/blob/main/BeeperRow.py)
+Watch my [BeeperRowAdv](https://github.com/Austinechen/rookie/blob/main/BeeperRowAdv.py)
 - put beepers on the row
 
-Watch my [BeeperRow](https://github.com/Austinechen/rookie/blob/main/BeeperRow.py)
+Watch my [Steeplechase](https://github.com/Austinechen/rookie/blob/main/Steeplechase.py)
 - put beepers on the row
